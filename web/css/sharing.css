@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 16, 2020, 13:58:38 PM
+    Author     : green
+*/
+
+.sharing {
+    width: 220px;
+}
+
+.share-title {
+    background-color: #303030;
+    font-family: Times New Roman;
+    font-size: 22px;
+    padding: 5px 0px 5px 15px;
+}
+
+.share {
+    background-color: #8b3c3f;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.share-row {
+    display: flex;
+    height: 22px;
+    padding-top: 5px;
+}
+
+.share-image {
+    height: 15px;
+    width: 15px;
+    margin-right: 5px;
+}
+
+.share-text {
+    text-decoration: underline;
+    color: white;
+}

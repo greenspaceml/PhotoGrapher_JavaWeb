@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 16, 2020, 13:58:38 PM
+    Author     : green
+*/
+
+.intro {
+    width: inherit;
+}
+
+.intro i {
+    font-size: 15px;
+}
+
+.intro-image {
+    height: auto;
+    width: inherit;
+}
+.view-gallery {
+    width: inherit;
+    padding-top: 60px;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 230px 230px 230px;
+}
+
+.gallery-card {
+    width: 230px;
+}
+
+.image-card {
+    height: auto;
+    width: inherit;
+}
+
+.content-card {
+    padding-top: 5px;
+}
+
+.content-card p {
+    line-height: 23px;
+}
+
+.view-gallery a {
+    font-family: Times New Roman;
+    text-decoration: underline;
+    font-size: 22px;
+    color: white;
+}
+
+.about-me {
+    padding-top: 30px;
+}
+
+.about-title {
+   font-family: Times New Roman;
+    font-size: 28px;
+}
+
+.about-me p {
+    line-height: 23px;
+}
